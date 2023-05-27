@@ -1,5 +1,7 @@
 # Week 1 Homework
 
+Source: [link](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/cohorts/2023/01-intro/homework.md)
+
 The data used can be download from the link in the text file. The data used are collected from NYC taxi dataset ([link](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)), specifically for the yellow tripdata 2022-01 and 2022-02 (the link could also be found in the data folder).
 
 Homework questions:
